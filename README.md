@@ -2,7 +2,7 @@
 Here are a set of example Relevant Background and Future Goals and Graduate Research Plan statements for the NSF GRFP in Ecology and Evolutionary Biology.
 
 ## Spreadsheet
-For ease of browsing you can access all of these proposals [here](goo.gl/4fXRWN)
+For ease of browsing you can access all of these proposals [here](https://docs.google.com/spreadsheets/d/13ex9ykvReOQQSzMjEo9ur89BA_SfRBat4UrEDeiPw2A/pubhtml?gid=0&single=true)
 
 ## Contributing
 
