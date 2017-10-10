@@ -10,7 +10,7 @@ Please email or submit a pull request if you would like to add your statements t
 
 ## Other resources
 
-There are many resources available for guidance in writing a GRFP (see [collected advice from 
+Many resources exist for guidance in writing a GRFP (see [collected advice from 
 Jennifer Wang](http://www.jenniferwang.org/nsf.html), and [Alex Lang](http://www.alexhunterlang.com/nsf-fellowship), and [proposals collected](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/htmlview?sle=true) by Alex Lang (mostly in chemistry/engineering). 
 
 A 2 min internet search does not reveal many people interested in ecology and evolution, but my guess is that the models are similar across fields. Send links please!
